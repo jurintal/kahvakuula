@@ -517,7 +517,7 @@ $data = array (
         )
       ),
       array (
-        "ref" => "20130929",
+        "ref" => "20131010",
         "name" => "to 10.10.2013 - Dead or Gone (kauden päättäjäistreeni)",
         "data" => array (
           array ("100", "Kyykky"),
