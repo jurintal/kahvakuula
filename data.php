@@ -1,0 +1,1138 @@
+<?php
+$data = array (
+  // 2017
+  array (
+    "ref" => "2017",
+    "name" => "2017",
+    "data" => array (
+      array (
+        "ref" => "20170803",
+        "name" => "to 3.8.2017 - Kauden aloitus - vol. 2",
+        "data" => array (
+          array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 15 min täynnä"),
+          array ("", "(Burpee)"),
+          array ("", "Hauis + Nosto + Ranskalainen"),
+          array ("", "Looper + punnerrus"),
+          array ("", "Hyvää huomenta"),
+          array ("", "(Punnerrus)"),
+          array ("", "Grace"),
+          array ("", "Vatsatyöntö"),
+          array ("", "Sumo High Pull"),
+        )
+      ),
+      array (
+        "ref" => "20170801",
+        "name" => "ti 1.8.2017 - Kauden aloitus (50 min)",
+        "data" => array (
+          array ("Kauden aloitus / liikkeiden kertaus"),
+          array ("", "Lämmittely"),
+          array ("", "Swing"),
+          array ("", "Yhden käden Swing"),
+          array ("", "Rinnalleveto + pystytyöntö"),
+          array ("", "Snatch"),
+          array ("", "Hauis + Nosto + Ranskalainen"),
+          array ("", "Kyykky"),
+          array ("", "Goblet-kyykky + varpaillenousu"),
+          array ("", "Kahden käden kulmasoutu"),
+          array ("", "Yhden käden kulmasoutu"),
+          array ("", "Burpee"),
+          array ("", "Kuulapunnerrus"),
+          array ("", "Walk of Pain"),
+          array ("", "5 minuuttia vapaavalintaisia liikkeitä"),
+          array ("", "Hoover 1min"),
+        )
+      ),
+    ),
+  ),
+  // 2015
+  array (
+    "ref" => "2015",
+    "name" => "2015",
+    "data" => array (
+      array (
+        "ref" => "20150517",
+        "name" => "su 17.5.2015 - Kahvakuula",
+        "data" => array (
+          array ("2 x 1min + 1min + 1min (½ min tauot)"),
+          array ("", "Swing, Vauhtipunnerrus, Rinnalleveto, 1min tauko"),
+          array ("", "Kasi, Tempaus, Sivukyykky, 1min tauko"),
+          array ("", "1 jalan maastaveto, ½ turkkilainen (1 min/puoli), 1min tauko"),
+          array ("", "Hoover 1.5min"),
+        )
+      ),
+      array (
+        "ref" => "20150420",
+        "name" => "ma 20.4.2015 - Kahvakuula",
+        "data" => array (
+          array ("20+20+20", "Swing"),
+          array ("20+20", "Thruster/Snatch"),
+          array ("10+10", "Tuulimylly (molemmat puolet)"),
+          array ("20+15+10 x 2", "Hauiskääntö"),
+          array ("5+5+5", "Rinnalleveto"),
+          array ("10", "Burpee"),
+          array ("5+5", "Walk of Pain"),
+          array ("15+9+6", "Istumaannousu kuulalla"),
+          array ("1min", "Hoover"),
+        )
+      ),
+    ),
+  ),
+  // 2014
+  array (
+    "ref" => "2014",
+    "name" => "2014",
+    "data" => array (
+      array (
+        "ref" => "20140821",
+        "name" => "to 21.8.2014 - Death By (30 min) (~30.7.2014)",
+        "data" => array (
+          array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 30 min täynnä"),
+          array ("", "Swing"),
+          array ("", "Vatsarulla"),
+          array ("", "Askelkyykky kuulan kanssa"),
+          array ("", "Looper punnerruksella"),
+          array ("", "Kasi"),
+          array ("", "Linkkarit"),
+          array ("", "Syväkyykky kuulan kanssa"),
+          array ("", "Burpee"),
+          array ("Bonus/loppuverryttely"),
+          array ("20", "Grace"),
+          array ("20", "Boxihyppy"),
+          array ("10", "Grace"),
+          array ("10", "Boxihyppy"),
+          array ("2", "Kylkilankku 45s"),
+        )
+      ),
+      array (
+        "ref" => "20140814",
+        "name" => "pe 14.8.2014 - Kahvakuula / Crossfit (=27.5.2014)",
+        "data" => array (
+          array ("<b>30 min - niin monta kierrosta kun ehtii</b>:"),
+          array ("20", "Swing"),
+          array ("", "Juoksu 200m"),
+          array ("10", "Kuulaheilurivatsa"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Boxihyppy"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Punnerrus"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Jännehyppy"),
+          array ("", "Juoksu 200m"),
+        )
+      ),
+      array (
+        "ref" => "20140730",
+        "name" => "ke 30.7.2014 - Death By (30 min)",
+        "data" => array (
+          array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 30 min täynnä"),
+          array ("", "Swing"),
+          array ("", "Vatsarulla"),
+          array ("", "Askelkyykky kuulan kanssa"),
+          array ("", "Looper punnerruksella"),
+          array ("", "Kasi"),
+          array ("", "Linkkarit"),
+          array ("", "Syväkyykky kuulan kanssa"),
+          array ("", "Burpee"),
+          array ("Bonus/loppuverryttely"),
+          array ("20", "Grace"),
+          array ("20", "Boxihyppy"),
+          array ("10", "Grace"),
+          array ("10", "Boxihyppy"),
+        )
+      ),
+      array (
+        "ref" => "20140719",
+        "name" => "la 19.7.2014 - Vatsatreeni (~25.5.2014)",
+        "data" => array (
+          array ("<b>Kiertoharjoitteluna, 3 kierrosta</b>:"),
+          array ("10", "Rulla"),
+          array ("2x30", "Sukelluspotku"),
+          array ("20", "Rutistus"),
+          array ("10", "Side Kicks"),
+          array ("10", "Ylösnousu (kuulan kanssa)"),
+          array ("20", "Lantion nosto"),
+          array ("<b>Bonus, 3 kierrosta</b>:"),
+          array ("", "Punnerrus: 5 x normaali, 5+5 toinen käsi kuulan päällä"),
+          array ("", "Lankku 1 min")
+        )
+      ),
+      array (
+        "ref" => "20140718",
+        "name" => "pe 18.7.2014 - Kahvakuula / Crossfit (=27.5.2014)",
+        "data" => array (
+          array ("<b>30 min - niin monta kierrosta kun ehtii</b>:"),
+          array ("20", "Swing"),
+          array ("", "Juoksu 200m"),
+          array ("10", "Kuulaheilurivatsa"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Boxihyppy"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Punnerrus"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Jännehyppy"),
+          array ("", "Juoksu 200m"),
+        )
+      ),
+      array (
+        "ref" => "20140709",
+        "name" => "ke 9.7.2014 - Kuuma keskiviikko",
+        "data" => array (
+          array ("1 min / liike, 2 x sarja"),
+          array ("<b>Sarja 1</b>:"),
+          array ("", "Swing"),
+          array ("", "Yhden jalan maastaveto"),
+          array ("", "Kuulavatsa"),
+          array ("<b>Sarja 2</b>:"),
+          array ("", "Kasi"),
+          array ("", "Tuulimylly"),
+          array ("", "Turkkilainen ½"),
+          array ("<b>Sarja 3</b>:"),
+          array ("", "Kauppakassi"),
+          array ("", "Tempaus"),
+          array ("", "Hoover"),
+          array ("<b>Bonus</b>"),
+          array ("10+10", "Leuanveto"),
+        )
+      ),
+      array (
+        "ref" => "20140626",
+        "name" => "to 26.6.2014 - Juhannuksen jälkeinen &quot;löysä&quot;",
+        "data" => array (
+          array ("5 kierrosta, toistot: 5 + 5 + 10 + 10 + 5"),
+          array ("", "Swing (half moon)"),
+          array ("", "Kyykky"),
+          array ("", "Swing"),
+          array ("", "Vatsa"),
+          array ("", "H + N + R"),
+          array ("", "Punnerrus"),
+        )
+      ),
+      array (
+        "ref" => "20140617",
+        "name" => "ti 17.6.2014 - Kahvakuulaliikkeitä maastopyöräilijöille 2",
+        "data" => array (
+          array ("<b>Lämmittely</b>"),
+          array ("", "Juoksu 2 x 200m"),
+          array ("", "Haarahypyt 1 min"),
+          array ("", "Burpee 5 kpl"),
+          array ("3 sarjaa, yht. 3 kierrosta"),
+          array ("<b>Sarja 1</b>:"),
+          array ("20", "Swing"),
+          array ("10", "Sumo High Pull"),
+          array ("10", "Istumaannousu ja pystytyöntö"),
+          array ("", "Tauko 1 min"),
+          array ("<b>Sarja 2</b>:"),
+          array ("2x10", "H +N +R"),
+          array ("1 min", "Hoover"),
+          array ("2x10", "1 jalan maastaveto"),
+          array ("", "Tauko 1 min"),
+          array ("<b>Sarja 3</b>:"),
+          array ("10", "Kahden käden kuulahyppy"),
+          array ("2x5", "Punnerrusveto"),
+          array ("2x3-5", "Turkkilainen"),
+          array ("", "Tauko 1 min"),
+        )
+      ),
+      array (
+        "ref" => "20140615",
+        "name" => "su 15.6.2014 - 3x3x2 35 min",
+        "data" => array (
+          array ("1 min / liike, 2 kierrosta"),
+          array ("Setti 1:"),
+          array ("", "Swing"),
+          array ("", "Thruster"),
+          array ("", "Yhden jalan maastaveto"),
+          array ("Setti 2:"),
+          array ("", "Yhdenkäden swing"),
+          array ("", "Snatch"),
+          array ("", "Askelkyykky"),
+          array ("Setti 3:"),
+          array ("", "Kasi"),
+          array ("", "Looper"),
+          array ("", "Turkkilainen"),
+        )
+      ),
+      array (
+        "ref" => "20140612",
+        "name" => "to 12.6.2014 - Punnerrus + Vatsatreeni",
+        "data" => array (
+          array ("10", "Punnerrus"),
+          array ("20", "Vatsarutistus"),
+          array ("10", "Punnerrus + veto"),
+          array ("10", "Joutsen"),
+          array ("10", "Punnerrus (toinen käsi sivulla)"),
+          array ("10", "Linkkari"),
+          array ("10", "Kuulapunnerrus"),
+          array ("40", "Sukeltajapotkut"),
+          array ("10", "Hindupunnerrus kuulalla"),
+          array ("10", "Lantionnostot"),
+          array ("10", "Kulmapunnerrus"),
+          array ("10", "Istumaannousu"),
+        )
+      ),
+      array (
+        "ref" => "20140610",
+        "name" => "ti 10.6.2014 - Kiertoharjoittelu",
+        "data" => array (
+          array ("Kiertoharjoitteluna: 1 min / liike, 3 kierrosta, 1-2 min tauko kierrosten välissä"),
+          array ("", "Swing"),
+          array ("", "Punnerrus"),
+          array ("", "Istumaannousu + kuulatyöntö"),
+          array ("", "Hiihtohypyt"),
+          array ("", "Kahden käden kulmasoutu"),
+          array ("", "Askelkyykky taakse"),
+          array ("", "Vatsapito / Hoover"),
+          array ("", "Burpee"),
+          array ("", "Lantionnosto"),
+          array ("", "Sumo High Pull"),
+        )
+      ),
+      array (
+        "ref" => "20140608",
+        "name" => "su 8.6.2014 - Kahvakuulaliikkeitä maastopyöräilijöille",
+        "data" => array (
+          array ("<b>Lämmittely</b>"),
+          array ("", "Juoksu 2 x 200m"),
+          array ("", "Haarahypyt 1 min"),
+          array ("", "Burpee 5 kpl"),
+          array ("3 sarjaa, yht. 3 kierrosta"),
+          array ("<b>Sarja 1</b>:"),
+          array ("20", "Swing"),
+          array ("10", "Sumo High Pull"),
+          array ("10", "Istumaannousu ja pystytyöntö"),
+          array ("", "Tauko 1 min"),
+          array ("<b>Sarja 2</b>:"),
+          array ("2x10", "Kuulan nosto jalalla"),
+          array ("1 min", "Hoover"),
+          array ("2x10", "1 jalan maastaveto"),
+          array ("", "Tauko 1 min"),
+          array ("<b>Sarja 3</b>:"),
+          array ("10", "Kahden käden kuulahyppy"),
+          array ("2x5", "Punnerrusveto"),
+          array ("2x3-5", "Turkkilainen"),
+          array ("", "Tauko 1 min"),
+        )
+      ),
+      array (
+        "ref" => "20140603",
+        "name" => "ti 3.6.2014 - Jalkojen lepuutus",
+        "data" => array (
+          array ("15", "Burpee (lämmittely)"),
+          array ("2x15", "Istumaannousu + kuulatyöntö"),
+          array ("2x10", "Tempaus"),
+          array ("2x15", "Hauis + Nosto + Ranskalainen"),
+          array ("2x20", "Punnerrus"),
+          array ("2x20", "Kulmasoutu (yhdenkäden)"),
+          array ("2x20", "Istumaannousu"),
+          array ("2x10", "Tempaus yhdelle jalalle"),
+          array ("100", "Sukelluspotkut"),
+          array ("4x15", "Kuulakierto istuen"),
+          array ("2", "Hoover (60s + 90s)"),
+          array ("15", "Burpee (loppuverryttely)"),
+        )
+      ),
+      array (
+         "ref" => "20140601",
+         "name" => "su 1.6.2014 - Kahvakuula",
+         "data" => array (
+            array ("<b>3 kierrosta</b>:"),
+            array ("20", "Swing"),
+            array ("20", "Puolikuu"),
+            array ("10+10", "Puunhakkaaja"),
+            array ("5+5", "Side Kicks"),
+            array ("5+5", "Pistoolikyykky kuulalla"),
+            array ("5+5", "Punnerrusveto kuulalla"),
+            array ("5+5", "Turkish Get Up"),
+         )
+       ),
+      array (
+        "ref" => "20140527",
+        "name" => "ti 27.5.2014 - Kahvakuula / Crossfit",
+        "data" => array (
+          array ("<b>30 min - niin monta kierrosta kun ehtii</b>:"),
+          array ("20", "Swing"),
+          array ("", "Juoksu 200m"),
+          array ("10", "Kuulaheilurivatsa"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Boxihyppy"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Punnerrus"),
+          array ("", "Juoksu 200m"),
+          array ("20", "Jännehyppy"),
+          array ("", "Juoksu 200m"),
+        )
+      ),
+      array (
+        "ref" => "20140525",
+        "name" => "su 25.5.2014 - Vatsatreeni",
+        "data" => array (
+          array ("<b>Kiertoharjoitteluna, 3 kierrosta</b>:"),
+          array ("10", "Rulla"),
+          array ("2x30", "Sukelluspotku"),
+          array ("30", "Rutistus"),
+          array ("30", "Fillari"),
+          array ("10", "Side Kicks"),
+          array ("10", "Ylösnousu (kuulan kanssa)"),
+          array ("20", "Lantion nosto"),
+          array ("<b>Bonus, 3 kierrosta</b>:"),
+          array ("", "Punnerrus: 5 x normaali, 5+5 toinen käsi kuulan päällä"),
+          array ("", "Lankku 1 min")
+        )
+      ),
+      array (
+        "ref" => "20140523",
+        "name" => "pe 23.5.2014 - Tabata",
+        "data" => array (
+          array ("Sarjojen välissä 10s tauko (4 min / liike), liikkeiden välissä 2 min tauko"),
+          array ("8x20s", "Swing"),
+          array ("8x20s", "Grace"),
+          array ("8x20s", "Turkkilainen (½)"),
+          array ("8x20s", "Hauis"),
+          array ("8x20s", "Tempaus"),
+          array ("8x20s", "Vatsa"),
+          array ("<b>Bonus</b>:"),
+          array ("10+10", "Walk of Pain"),
+          array ("2", "Boxihyppy (30s) + Swing (30s)")
+        )
+      ),
+      array (
+        "ref" => "20140521",
+        "name" => "ke 21.5.2014 - Back to basics",
+        "data" => array (
+          array ("LÄMMITTELY: Nilkat, polvet, lantio, kädet jne."),
+          array ("LÄMMITTELY / KUULAKIERROT: Kasi, Ribbons, kehon- ja jalan ympäri jne."),
+          array ("2-KÄDEN SWING:"),
+          array ("", "Short Lever Swing"),
+          array ("", "Russian Style"),
+          array ("", "American Style"),
+          array ("1-KÄDEN SWING:"),
+          array ("", "Vaihdolla"),
+          array ("", "High Pull"),
+          array ("", "Työntö"),
+          array ("CLEAN:"),
+          array ("", "Vasen ja oikea (Swing tai maasta)"),
+          array ("PRESS:"),
+          array ("", "Vasen ja oikea"),
+          array ("", "Hauis"),
+          array ("THRUSTER:"),
+          array ("", "Vasen ja oikea"),
+          array ("", "Ranskalainen"),
+          array ("SNATCH:"),
+          array ("", "Vasen ja oikea"),
+          array ("DEADLIFT:"),
+          array ("", "Good Morning"),
+          array ("", "1-jalan vasen ja oikea"),
+          array ("", "1-jalan vasen ja oikea kulmasoutu"),
+          array ("COMBOT:"),
+          array ("", "Goblet-kyykky + Hauis + Nousu + Työntö + Ranskalainen"),
+          array ("", "Clean + Kyykky + Nousu + Thruster (vasen ja oikea)"),
+        )
+      ),
+      array (
+        "ref" => "20140518",
+        "name" => "su 18.5.2014 - Kuulakimppa (ylävartalo)",
+        "data" => array (
+          array ("20", "Hauis"),
+          array ("20", "Nosto (kahdenkäden)"),
+          array ("20", "Ranskalainen"),
+          array ("20", "H+N+R (Hauis + Nosto + Ranskalainen)"),
+          array ("20", "Sumo High Pull"),
+          array ("20", "Swing"),
+          array ("20+20", "Swing (yhdenkäden)"),
+          array ("20+20", "Kulmasoutu"),
+          array ("10+10", "Thruster/Snatch"),
+          array ("20", "Punnerrus (naiset kuulan nosto selällään 1 tai 2 kuulalla)"),
+          array ("30", "Vatsat (parina tai yksin)"),
+          array ("3", "Lankku (1 min)"),
+          array ("10+10", "Jerk (makuulta kuula kohti taivasta)"),
+          array ("3", "Boxihyppy (30s) + Swing (30s)"),
+        )
+      ),
+
+      array (
+        "ref" => "20140516",
+        "name" => "pe 16.5.2014 - Pyramidi",
+        "data" => array (
+    	    array ("80", "Kyykky"),
+    	    array ("70", "Vatsat"),
+    	    array ("60", "Swing"),
+    	    array ("50", "Hauis"),
+    	    array ("40", "Kulmasoutu"),
+    	    array ("30", "Burpee"),
+    	    array ("20", "Sumo High Pull"),
+    	    array ("10", "Punnerrus"),
+    	  )
+      ),
+      array (
+        "ref" => "20140513",
+        "name" => "ti 13.5.2014 - Pyramidi",
+        "data" => array (
+          array ("60", "Swing (kuula)"),
+          array ("50", "Kulmasoutu (kuula)"),
+          array ("40", "Vatsat (kuuula)"),
+          array ("30", "Polvet rintaan hypyt"),
+          array ("20", "Mittarimato"),
+          array ("10", "Burpee"),
+          array ("10", "Burpee"),
+          array ("20", "Mittarimato"),
+          array ("30", "Polvet rintaan hypyt"),
+          array ("40", "Vatsat (kuuula)"),
+          array ("50", "Kulmasoutu (kuula)"),
+          array ("60", "Swing (kuula)"),
+        )
+      ),
+    ),
+	),
+  // 2013
+  array (
+    "ref" => "2013",
+    "name" => "2013",
+    "data" => array (
+      array (
+        "ref" => "20131107",
+        "name" => "to 7.11.2013 - Kahvakuula (~30 min)",
+        "data" => array (
+          array ("150", "Swing (24kg)"),
+          array ("200", "Vatsa (50 x istumaannousu, 50 x rutistus vastakkaisille puolille, 100 x uintipotku)"),
+          array ("50", "Burpee"),
+          array ("100", "Kulmasoutu (16kg)"),
+          array ("60", "Tempaus"),
+        )
+      ),
+      array (
+        "ref" => "20130929",
+        "name" => "to 10.10.2013 - Dead or Gone (kauden päättäjäistreeni)",
+        "data" => array (
+          array ("100", "Kyykky"),
+          array ("90", "Vatsat"),
+          array ("80", "Swing"),
+          array ("70", "Hauis"),
+          array ("60", "Punnerrus"),
+          array ("50", "Kulmasoutu"),
+          array ("40", "Snatch"),
+          array ("30", "Burpee (yhden jalan)"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Grace"),
+        )
+      ),
+      array (
+        "ref" => "20130929",
+        "name" => "su 29.9.2013 - Death By (Jalka/vatsatreeni - 30 min)",
+        "data" => array (
+          array ("", "Toes to bar"),
+          array ("", "Kuulakyykky"),
+          array ("", "Joutsen"),
+          array ("", "Askelkyykky"),
+          array ("", "Vatsarullaus"),
+          array ("", "Hyvää huomenta"),
+          array ("", "Vatsarulla"),
+          array ("", "Kyykky kuulien varassa"),
+        )
+      ),
+      array (
+        "ref" => "20130926",
+        "name" => "to 26.9.2013 - Kiertoharjoittelu",
+        "data" => array (
+          array ("Kiertoharjoitteluna: 1 min / liike, 3 kierrosta, 1-2 min tauko kierrosten välissä"),
+          array ("", "Swing"),
+          array ("", "Punnerrus"),
+          array ("", "Istumaannousu + kuulatyöntö"),
+          array ("", "Hiihtohypyt"),
+          array ("", "Kahden käden kulmasoutu"),
+          array ("", "Askelkyykky"),
+          array ("", "Vatsapito / Hoover"),
+          array ("", "Burpee"),
+          array ("", "Lantionnosto"),
+          array ("", "Sumo High Pull"),
+        )
+      ),
+      array (
+        "ref" => "20130924",
+        "name" => "ti 24.9.2013 - Kiertoharjoittelu (25 min)",
+        "data" => array (
+          array ("Kiertoharjoitteluna: 1. kierroksella 1 toisto, 2:lla 2 toistoa jne. kunnes 25 minuuttia täynnä"),
+          array ("", "Toes to bar"),
+          array ("", "Hyvää huomenta"),
+          array ("", "Hauis + Nosto"),
+          array ("", "Vatsarutistus (punnerrusasennossa)"),
+          array ("", "Ranskalainen punnerrus"),
+          array ("", "Kuulakyykky"),
+        )
+      ),
+      array (
+        "ref" => "20130923",
+        "name" => "ma 23.9.2013 - Kahvakuula",
+        "data" => array (
+          array ("2x10", "Lämmittely: Burpee"),
+          array ("3x20", "Hauiskääntö"),
+          array ("3x10", "Askelkyykky + varpaille nousu"),
+          array ("3x20", "Vatsarutistus"),
+          array ("3x20", "Kylkikierrot (20 x molemmat jalat maassa, 20+20 toinen jalka ilmassa)"),
+          array ("3x20", "Swing"),
+          array ("?", "?"),
+          array ("?", "Selkärutistus"),
+          array ("20+15+10", "Kierto kyljeltä toiselle pään takaa kiertäen"),
+          array ("2x10", "Loppuverryttely: Burpee"),
+        )
+      ),
+      array (
+        "ref" => "20130922",
+        "name" => "su 22.9.2013 - Kiertoharjoittelu",
+        "data" => array (
+          array ("Lämmittely: burpee / swing"),
+          array ("5", "Mittarimato"),
+          array ("10", "Vatsarutistus (jumppapallolla)"),
+          array ("10", "Askelkyykyt + jalkojen ojennukset eteen (2 kuulan varassa dippiasennossa, välissä tukijalka suoraksi)")
+        )
+      ),
+      array (
+        "ref" => "20130919",
+        "name" => "to 19.9.2013 - Juhan kahvatreeni",
+        "data" => array (
+          array ("Kevyehkö treeni, fokus hiihtoa tukevissa liikkeissä (tasapaino, kehonhallinta)"),
+          array ("2x10", "Burpee (lämmittely)"),
+          array ("1+1+1min", "Kierto vartalon ympäri (1 min molemmat jalat maassa, 1 min vasen jalka ilmassa, 1 min oikea jalka ilmassa)"),
+          array ("20+15+10", "Swing"),
+          array ("3x10", "Vatsarutistus"),
+          array ("2x20", "Tempaus yhdelle jalalle (2x10 / käsi, liike lähtee molemmat jalat maassa ja tempauksen alussa nostetaan kuulakäden vastakkainen jalka ilmaan"),
+          array ("2x10", "Syväkyykky + hyppy (hitaasti alas, räjähtävästi ylös)"),
+          array ("20+15+10", "Hauis + Nosto + Ranskalainen"),
+          array ("20+15+10", "Hauiskääntö")
+        )
+      ),
+      array (
+        "ref" => "20130916",
+        "name" => "ma 16.9.2013 - Janin kahvatreeni",
+        "data" => array (
+          array ("Teemoina perinteinen kahvakuula, palauttelu ja liikkuvuuden lisääminen. Osa liikkeistä lajitreeniä yleisurheiluun ja pöytätennikseen."),
+          array ("", "Alkuun 3 min lämmittely niin, että pieni kuula liikkuu koko ajan"),
+          array ("<b>1. Liike: Swing</b>"),
+          array ("20", "Swing - kaksi kättä"),
+          array ("", "1 min palautus"),
+          array ("20", "Swing - vaihtokäsi"),
+          array ("", "1 min palautus"),
+          array ("<b>2. Liike: Hyvää huomenta</b>"),
+          array ("20", "Hyvää huomenta"),
+          array ("", "1 min palautus"),
+          array ("20", "Hyvää huomenta"),
+          array ("<b>3. Liike: Istumaannousu + pystytyöntö</b>"),
+          array ("15", "Istumaannousu + pystytyöntö"),
+          array ("", "1 min palautus"),
+          array ("9", "Istumaannousu + pystytyöntö"),
+          array ("", "1 min palautus"),
+          array ("6", "Istumaannousu + pystytyöntö"),
+          array ("", "1 min palautus"),
+          array ("<b>4. Liike: Pystypunnerrus + ojentajat (kevyt kuula)</b>"),
+          array ("10", "Punnerrus + ojentajat"),
+          array ("", "1 min palautus"),
+          array ("10", "Punnerrus + ojentajat"),
+          array ("<b>5. Liike: Rinnalleveto</b>"),
+          array ("2x7", "(molemmille käsille)"),
+          array ("", "30 s palautus"),
+          array ("2x5", "(molemmille käsille)"),
+          array ("", "30 s palautus"),
+          array ("2x3", "(molemmille käsille)"),
+          array ("<b>6. Liike: Pään yli lonkalta toiselle</b>"),
+          array ("10", "Pään yli lonkalta toiselle"),
+          array ("", "1 min palautus"),
+          array ("10", "Pään yli lonkalta toiselle"),
+          array ("", "1 min palautus"),
+          array ("<b>7. Liike: Kahvapunnerrus</b>"),
+          array ("20", "Kahvapunnerrus"),
+          array ("", "1 min palautus"),
+          array ("20", "Kahvapunnerrus"),
+          array ("", "1 min palautus"),
+          array ("<b>8. Liike: Kulmasoutu</b>"),
+          array ("10", "molemmat kädet"),
+          array ("", "1 min palautus"),
+          array ("10", "molemmat kädet"),
+          array ("", "1 min palautus"),
+          array ("<b>9. Liike: Askelkyykky + vartalon kierto</b>"),
+          array ("10", "5 x molemmat puolet"),
+          array ("", "1 min palautus"),
+          array ("10", "5 x molemmat puolet"),
+          array ("", "1 min palautus"),
+          array ("<b>10. Liike: Vatsapito</b>"),
+          array ("60s", "vatsapito"),
+          array ("", "1 min palautus"),
+          array ("60s", "vatsapito"),
+          array ("", "1 min palautus"),
+          array ("", "Loppuun 3 min lämmittely niin, että pieni kuula liikkuu koko ajan"),
+        )
+      ),
+      array (
+        "ref" => "20130915",
+        "name" => "su 15.9.2013 - Kuula",
+        "data" => array (
+          array ("10", "Swing"),
+          array ("6", "Punnerrusveto"),
+          array ("5", "Grace (Clean + Kyykky)"),
+          array ("3", "Keinukyykky"),
+          array ("Bodypress"),
+          array ("1-2", "Turkish Get Up"),
+        )
+      ),
+      array (
+        "ref" => "2013cindy",
+        "name" => "xx.xx.2013 - Cindy (20 min)",
+        "data" => array (
+          array ("<b>I VAIHE</b>:"),
+          array ("TRX (selkä)"),
+          array ("Hauis + Nosto"),
+          array ("Punnerrus"),
+          array ("1 jalan kyykky"),
+          array ("<b>II VAIHE</b>:"),
+          array ("TRX (vatsa)"),
+          array ("Pallonostot (käsi + jalka vaihdot)"),
+          array ("Rulla")
+        )
+      ),
+      array (
+        "ref" => "20130613",
+        "name" => "to 13.6.2013",
+        "data" => array (
+          array ("LÄMMITTELY:"),
+          array ("10+10", "Burpee"),
+          array ("20+20", "Kimppa vatsat"),
+          array ("10+10", "Läpy"),
+          array ("1x - 2x - 3x:"),
+          array ("20", "Swing (ylös)"),
+          array ("20", "Syväkyykky + pohje"),
+          array ("20", "H + N + R (Hauis + Nosto + Ranskalainen)"),
+          array ("5+5", "Windmill"),
+          array ("10", "Good Morning"),
+          array ("5+5", "Hauisnosto"),
+          array ("10", "Kyykkyhyppely"),
+          array ("10+10", "Thruster / Snatch"),
+        )
+      ),
+      array (
+        "ref" => "20130606",
+        "name" => "to 6.6.2013 - Kuulakimppa",
+        "data" => array (
+          array ("20", "Hauis"),
+          array ("20", "Nosto (kahdenkäden)"),
+          array ("20", "Ranskalainen"),
+          array ("20", "H + N + R"),
+          array ("20", "Sumo High Pull"),
+          array ("20", "Swing"),
+          array ("20+20", "Swing (yhdenkäden)"),
+          array ("20+20", "Kulmasoutu"),
+          array ("10+10", "Thruster / Snatch"),
+          array ("20", "Punnerrus (naiset kuulan nosto selällään 1 tai 2 kuulalla)"),
+          array ("30", "Vatsat (parina tai yksin)"),
+          array ("3", "Lankku (1 min)"),
+          array ("10+10", "Jerk (makuulta kuula kohti taivasta)"),
+        )
+      ),
+      array (
+        "ref" => "20130602",
+        "name" => "su 2.6.2013 - Dead or Gone",
+        "data" => array (
+          array ("70", "Kyykky (kuulan kanssa)"),
+          array ("60", "Hauis"),
+          array ("50", "Swing"),
+          array ("40", "Thruster / Snatch"),
+          array ("30", "Grace"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Punnerrus (kuulan kanssa)"),
+        )
+      ),
+      array (
+        "ref" => "20130530",
+        "name" => "to 30.5.2013 - Cindy",
+        "data" => array (
+          array ("5", "Swing"),
+          array ("10", "Rock Climbing"),
+          array ("10", "Good Morning"),
+          array ("5", "Grace"),
+          array ("5", "Side Kicks"),
+          array ("10", "Fillari"),
+          array ("5", "Sumo High Pull"),
+          array ("5", "Spider"),
+          array ("5", "Burpee"),
+          array ("10", "Hauis"),
+          array ("5", "Kahdenkäden kulmasoutu"),
+          array ("5", "Punnerrus"),
+        )
+      ),
+      array (
+        "ref" => "20130525",
+        "name" => "la 25.5.2013 - Kimppa 1",
+        "data" => array (
+          array ("<b>LÄMMITTELY</b>"),
+          array ("10", "Burpee"),
+          array ("<b>I VAIHE</b>: (Toistona sama perään)"),
+          array ("20", "Swing"),
+          array ("10+10", "Thruster"),
+          array ("10+10", "Snatch"),
+          array ("21+15+9", "Squat"),
+          array ("5", "Burpee"),
+          array ("<b>II VAIHE</b>: Kuulat riviin 7kpl"),
+          array ("10", "Hauiskääntö + nosto (naiset nosto tai kyykky painavampien kuulien kanssa, 8-12kg myös ranskalainen punnerrus"),
+          array ("<b>III VAIHE</b>:"),
+          array ("4x6", "Walk of Pain"),
+          array ("<b>IV VAIHE</b>: Kuulat riviin 7kpl (kuulan vaihto liikkeen jälkeen)"),
+          array ("10x7", "Hyvää huomenta (suorin jaloin nostot 20-24kg), Sumo High Pull (8-16kg)"),
+          array ("<b>V VAIHE</b>:"),
+          array ("2x20", "Kuulakierto (pareittain seisten selät vastakkain kuulan vaihto vasen-oikea)"),
+          array ("2x20", "Vatsat (pareittain istuen vastakkain kuulan vaihto vatsalihasliikkeen jälkeen)"),
+          array ("<b>LOPUKSI</b>:"),
+          array ("5+5+5", "Grace (rinnalle, kyykky ja nosto). Vuorotellen syväkyykyllä, yhdellä/kahdella kuulalla)"),
+        )
+      ),
+      array (
+        "ref" => "2013patterit",
+        "name" => "xx.xx.2013 - Patterit 3 x 7 min",
+        "data" => array (
+          array ("<b>I VAIHE</b>: 7 min"),
+          array ("20", "Mountain Climber (molemmat jalat rintaan)"),
+          array ("6", "Good Morning"),
+          array ("10+10", "Pistoolikyykky"),
+          array ("<b>II VAIHE</b>: 7 min"),
+          array ("5+5", "Yhden jalan burpee"),
+          array ("20", "H + N + R"),
+          array ("10+10", "Thruster (yhden jalan, vaihtoehto kulmasoutu)"),
+          array ("<b>III VAIHE</b>: 7 min"),
+          array ("50", "Kyykky"),
+          array ("20", "Istumaannousu"),
+          array ("10", "Punnerrus (vaihtoehto kyljet)")
+        )
+      ),
+      array (
+        "ref" => "2013cindy2",
+        "name" => "xx.xx.2013 - Cindy 2",
+        "data" => array (
+          array ("TRX (kyykky ja veto)"),
+          array ("Burpee"),
+          array ("Tuolihyppely"),
+          array ("H + N + R"),
+          array ("Kulmasoutu"),
+          array ("Sidekicks"),
+          array ("Spider-punnerrus"),
+          array ("Body Press"),
+          array ("<b>Loppuun vatsat:</b>"),
+          array ("20+20", "Rutistus"),
+          array ("20+20", "Istumaannousu"),
+          array ("20+20", "Lantionnostot"),
+          array ("40+40", "Polkupyörä"),
+          array ("40+40", "Sukeltajapotkut"),
+        )
+      ),
+      array (
+        "ref" => "2013hikitreeni",
+        "name" => "xx.xx.2013 - Hikitreeni",
+        "data" => array (
+          array ("10", "Mittarimato (Looper)"),
+          array ("10", "Side Kicks"),
+          array ("20", "Swing"),
+          array ("10", "Midnight Express (punnerrus)"),
+          array ("20", "Kyykky"),
+          array ("5+5", "Punnerrusveto"),
+          array ("10", "TRX (vatsat)"),
+          array ("10", "Pallovatsat"),
+          array ("10", "Thruster (tuplakyykyllä)"),
+          array ("20", "Haaraperushypyt"),
+        )
+      ),
+      array (
+        "ref" => "2013angie",
+        "name" => "xx.xx.2013 - Angie",
+        "data" => array (
+          array ("50", "Swing"),
+          array ("50", "Vatsa"),
+          array ("50", "Punnerrus"),
+          array ("50", "Kyykky"),
+          array ("30", "Burpee"),
+          array ("10", "Looper (Mittarimato)"),
+          array ("Lopuksi kuula liikkeessä 5 min, vapaat liikkeet"),
+        )
+      ),
+
+	  ),
+  ),
+  // Sekalaista
+  array (
+    "ref" => "Misc",
+    "name" => "Sekalaista",
+    "data" => array (
+      array (
+        "ref" => "Misc001",
+        "name" => "Pyramidi 1",
+        "data" => array (
+          array ("80", "Kyykky"),
+          array ("70", "Vatsat"),
+          array ("60", "Punnerrus"),
+          array ("50", "Swing"),
+          array ("40", "Pystytyöntö / Vipunosto"),
+          array ("30", "Maastaveto"),
+          array ("20", "Leuka"),
+          array ("10", "Burpee"),
+        )
+      ),
+      array (
+        "ref" => "Misc002",
+        "name" => "Cindy 1 (20 min)",
+        "data" => array (
+          array ("5", "Punnerrusveto (16kg)"),
+          array ("5", "Polvet tankoon"),
+          array ("10", "Swing (24kg)"),
+          array ("10", "Kyykky (24kg)"),
+        )
+      ),
+      array (
+        "ref" => "Misc003",
+        "name" => "Kettlebell 1",
+        "data" => array (
+          array ("Lämmittely kuulalla 5 min"),
+          array ("20+20", "Swing (kahden käden)"),
+          array ("10+10", "Thruster"),
+          array ("10+10", "Squat"),
+          array ("15+9+6", "Sumo High Pull"),
+          array ("21+15+9", "Hauiskääntö"),
+          array ("4x10", "Walk of Pain"),
+          array ("9+6+3", "Istumaannousu + pystytyöntö"),
+          array ("2x10", "Floor Press"),
+        )
+      ),
+      array (
+        "ref" => "Misc004",
+        "name" => "Kettlebell 2",
+        "data" => array (
+          array ("Lämmittely kuulalla 5 min"),
+          array ("20+20", "Swing (kahden käden)"),
+          array ("10+10", "Thruster"),
+          array ("10+10", "Squat"),
+          array ("21+15+9", "Hauiskääntö"),
+          array ("15+9+6", "Kulmasoutu (molemmat kädet)"),
+          array ("15+9+6", "Ylösnousu makuulta"),
+          array ("15+9+6", "Kyykky"),
+        )
+      ),
+      array (
+        "ref" => "Misc005",
+        "name" => "300",
+        "data" => array (
+          array ("25", "Burpee"),
+          array ("50", "Punnerrus"),
+          array ("50", "Maastaveto"),
+          array ("100", "Vatsat"),
+          array ("25", "Leuka"),
+        )
+      ),
+      array (
+        "ref" => "Misc006",
+        "name" => "Fight Gone Bad 1 (3 x 5 min)",
+        "data" => array (
+          array ("1. Swing (1 min)"),
+          array ("2. Kyykky (1 min)"),
+          array ("3. Kulmasoutu (1 min)"),
+          array ("4. Sumo High Pull (1 min)"),
+          array ("5. Hauis + Nosto + Ranskalainen (1 min)"),
+          array ("1 min tauko liikkeiden välissä"),
+          array ("2 min tauko kierrosten välissä"),
+        )
+      ),
+      array (
+        "ref" => "Misc007",
+        "name" => "Fight Gone Bad 2 (3 x 5 min)",
+        "data" => array (
+          array ("1. Swing (1 min)"),
+          array ("2. Squat (1 min)"),
+          array ("3. Thruster (1 min)"),
+          array ("4. Sumo High Pull (1 min)"),
+          array ("5. Hauis ja nosto (1 min)"),
+          array ("1 min tauko kierrosten välissä"),
+        )
+      ),
+      array (
+        "ref" => "Misc008",
+        "name" => "Belly (2/3 kierrosta)",
+        "data" => array (
+          array ("10", "Rulla"),
+          array ("30", "Sukelluspotku"),
+          array ("30", "Rutistus"),
+          array ("30", "Fillari"),
+          array ("10", "Side Kicks"),
+          array ("20", "Ylösnousu"),
+          array ("20", "Lantion nosto"),
+        )
+      ),
+      array (
+        "ref" => "Misc009",
+        "name" => "Cindy (20 min)",
+        "data" => array (
+          array ("5", "Punnerrusveto"),
+          array ("5", "Polvet tankoon"),
+          array ("10", "Swing"),
+          array ("10", "Kyykky"),
+        )
+      ),
+      array (
+        "ref" => "Misc010",
+        "name" => "Dead or Alive",
+        "data" => array (
+          array ("80", "Kyykky"),
+          array ("70", "Swing"),
+          array ("60", "Hauis"),
+          array ("50", "Sumo High Pull"),
+          array ("40", "Thruster + Squat"),
+          array ("30", "Grace"),
+          array ("20", "Kuulapunnerrus"),
+          array ("10", "Burpee"),
+          array ("2x20", "Walk of Pain"),
+        )
+      ),
+      array (
+        "ref" => "Misc011",
+        "name" => "Kuulatreeni 96 (alavartalo)",
+        "data" => array (
+          array ("60", "Swing"),
+          array ("60", "Kyykky"),
+          array ("60", "Hyvää päivää"),
+          array ("20+20", "Lantion nostot (selällään kuula kannatuksella suorilla käsillä, toinen jalka koukussa, toinen suorana. Lantion nosto, suora jalka nousee polven tasalle ja 20 jälkeen vaihto."),
+          array ("10+10", "Luistelu"),
+          array ("30", "Vatsat (yksin tai parina)"),
+          array ("20+20", "Kuulakierto (istuen)"),
+          array ("10+10", "Walk of Pain"),
+          array ("Sama uusiksi ½ määrillä"),
+        )
+      ),
+      array (
+        "ref" => "Misc012",
+        "name" => "Kuula 1",
+        "data" => array (
+          array ("50", "Swing"),
+          array ("10+10", "Snatch"),
+          array ("10+10", "Thruster"),
+          array ("40", "Kyykky"),
+          array ("40", "Hauis"),
+          array ("30", "Grace"),
+          array ("20+20", "Swing (yhdenkäden)"),
+          array ("20", "Sumo High Pull"),
+          array ("10+10", "Luistelu"),
+          array ("10+10", "Askelkyykky (eteen)"),
+          array ("20+20", "Kulmasoutu"),
+          array ("10+10", "Askelkyykky (taakse)"),
+          array ("30", "Vatsa (yksin tai parina)"),
+          array ("Sama uusiksi ½ määrillä ?"),
+        )
+      ),
+      array (
+        "ref" => "Misc013",
+        "name" => "Kuula 2",
+        "data" => array (
+          array ("50", "Swing"),
+          array ("10+10", "Snatch"),
+          array ("5+5", "Thruster (yhden jalan varassa)"),
+          array ("40", "Kyykky"),
+          array ("40", "Hauis"),
+          array ("30", "Grace"),
+          array ("20+20", "Swing (yhdenkäden)"),
+          array ("20", "Sumo High Pull"),
+          array ("10+10", "Body Press"),
+          array ("10", "Hyppykyykky (eteen, sarviote ylös)"),
+          array ("20+20", "Kulmasoutu"),
+          array ("10+10", "Walk of Pain"),
+          array ("20", "Vatsa (selällään kuula suorilla käsillä + nousu)"),
+          array ("Sama uusiksi ½ määrillä ?"),
+        )
+      ),
+      array (
+        "ref" => "Misc014",
+        "name" => "Death by 20 min",
+        "data" => array (
+          array ("1. kierros, 1 toisto, 2. kierros, 2 toistoa jne. kunnes 20 minuuttia täynnä"),
+          array ("", "Swing"),
+          array ("", "Kyykky"),
+          array ("", "Thruster"),
+          array ("", "Punnerrus"),
+          array ("", "Snatch")
+        )
+      ),
+
+    ),
+  ),
+  // Dead or Gone
+  array (
+    "ref" => "DoG",
+    "name" => "Dead or Gone",
+    "data" => array (
+      array (
+        "ref" => "DoG001",
+        "name" => "Dead or Gone 1",
+        "data" => array (
+          array ("90", "Vatsat"),
+          array ("80", "Punnerrus (naiset kuulan nosto selällään / thruster / snatch)"),
+          array ("70", "Swing"),
+          array ("60", "Kyykky"),
+          array ("50", "H + N + R (Hauis + Nosto + Ranskalainen)"),
+          array ("40", "Sumo High Pull"),
+          array ("30", "Kulmasoutu"),
+          array ("20", "Grace"),
+          array ("10", "Burpee"),
+        )
+      ),
+      array (
+        "ref" => "DoG002",
+        "name" => "Dead or Gone 2",
+        "data" => array (
+          array ("100", "Kyykky"),
+          array ("90", "Vatsat"),
+          array ("80", "Swing"),
+          array ("70", "Hauis"),
+          array ("60", "Punnerrus"),
+          array ("50", "Kulmasoutu"),
+          array ("40", "Snatch"),
+          array ("30", "Burpee"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Grace"),
+        )
+      ),
+      array (
+        "ref" => "Dog003",
+        "name" => "Dead or Gone 3",
+        "data" => array (
+          array ("80", "Kyykky"),
+          array ("70", "Punnerrus"),
+          array ("60", "Vatsat (parin kanssa mikäli mahdollista)"),
+          array ("50", "Swing"),
+          array ("40", "Burpee"),
+          array ("30", "Hauis"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Grace"),
+        )
+      ),
+      array (
+        "ref" => "DoG004",
+        "name" => "Dead or Gone 4",
+        "data" => array (
+          array ("80", "Kyykky"),
+          array ("70", "Vatsat"),
+          array ("60", "Punnerrus"),
+          array ("50", "Swing"),
+          array ("40", "Burpee"),
+          array ("30", "Hauis"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Grace"),
+        )
+      ),
+      array (
+        "ref" => "DoG005",
+        "name" => "Dead or Gone 5",
+        "data" => array (
+          array ("80", "Kyykky"),
+          array ("70", "Vatsat"),
+          array ("60", "Swing"),
+          array ("50", "Burpee"),
+          array ("40", "Hauis"),
+          array ("30", "Grace"),
+          array ("20", "Sumo High Pull"),
+          array ("10", "Punnerrus"),
+        )
+      ),
+
+    ),
+  ),
+);
+?>
