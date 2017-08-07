@@ -6,10 +6,23 @@ $data = array (
     "name" => "2017",
     "data" => array (
       array (
+        "ref" => "20170808",
+        "name" => "ti 8.8.2017 - Chelsea",
+        "data" => array (
+          array ("Joka minuutti alkaa uusi liike. 5min / kierros, tauko 1-3min kierrosten välissä. Yht. 30min"),
+          array ("4", "Burpee"),
+          array ("8", "Askelkyykky / Walk of Pain"),
+          array ("12", "Punnerrus"),
+          array ("16", "Swing"),
+          array ("20", "Mountain Climber"),
+        )
+      ),
+      array (
         "ref" => "20170806",
         "name" => "su 6.8.2017 - Annie",
         "data" => array (
           array ("Kaikki putkeen omatoimisesti - max. 30min"),
+          array ("Muut liikkeet kuulan kanssa paitsi punnerrus ja burpee"),
           array ("100", "Vatsa"),
           array ("90", "Hauiskääntö / Ranskalainen"),
           array ("80", "Swing"),
