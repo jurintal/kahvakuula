@@ -41,7 +41,7 @@ $data = array (
         "data" => array (
           array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 15 min täynnä"),
           array ("", "(Burpee)"),
-          array ("", "Hauis + Nosto + Ranskalainen"),
+          array ("", "Hauiskääntö + Ranskalainen"),
           array ("", "Looper + punnerrus"),
           array ("", "Hyvää huomenta"),
           array ("", "(Punnerrus)"),
