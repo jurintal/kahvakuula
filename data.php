@@ -60,7 +60,7 @@ $data = array (
           array ("", "Yhden käden Swing"),
           array ("", "Rinnalleveto + pystytyöntö"),
           array ("", "Snatch"),
-          array ("", "Hauis + Nosto + Ranskalainen"),
+          array ("", "Hauiskääntö + Ranskalainen"),
           array ("", "Kyykky"),
           array ("", "Goblet-kyykky + varpaillenousu"),
           array ("", "Kahden käden kulmasoutu"),
