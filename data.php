@@ -7,7 +7,7 @@ $data = array (
     "data" => array (
       array (
         "ref" => "20170808",
-        "name" => "ti 8.8.2017 - Chelsea <span class=\"label\"></span>",
+        "name" => "ti 8.8.2017 - Chelsea",
         "users" => 12,
         "data" => array (
           array ("Joka minuutti alkaa uusi liike. 5min / kierros, tauko 1-3min kierrosten välissä. 4 kierrosta + 1 kierros tuplamäärällä liikkeitä + 1 bonuskierros (yht. 30min)"),
