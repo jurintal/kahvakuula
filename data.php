@@ -7,9 +7,10 @@ $data = array (
     "data" => array (
       array (
         "ref" => "20170808",
-        "name" => "ti 8.8.2017 - Chelsea",
+        "name" => "ti 8.8.2017 - Chelsea <span class=\"label\"></span>",
+        "users" => 12,
         "data" => array (
-          array ("Joka minuutti alkaa uusi liike. 5min / kierros, tauko 1-3min kierrosten välissä. Yht. 30min"),
+          array ("Joka minuutti alkaa uusi liike. 5min / kierros, tauko 1-3min kierrosten välissä. 4 kierrosta + 1 kierros tuplamäärällä liikkeitä + 1 bonuskierros (yht. 30min)"),
           array ("4", "Burpee"),
           array ("8", "Askelkyykky / Walk of Pain"),
           array ("12", "Punnerrus"),
@@ -20,6 +21,7 @@ $data = array (
       array (
         "ref" => "20170806",
         "name" => "su 6.8.2017 - Annie",
+        "users" => 12,
         "data" => array (
           array ("Kaikki putkeen omatoimisesti - max. 30min"),
           array ("Muut liikkeet kuulan kanssa paitsi punnerrus ja burpee"),
@@ -38,6 +40,7 @@ $data = array (
       array (
         "ref" => "20170803",
         "name" => "to 3.8.2017 - Kauden aloitus - vol. 2",
+        "users" => 6,
         "data" => array (
           array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 15 min täynnä"),
           array ("", "(Burpee)"),
@@ -53,6 +56,7 @@ $data = array (
       array (
         "ref" => "20170801",
         "name" => "ti 1.8.2017 - Kauden aloitus (50 min)",
+        "users" => 7,
         "data" => array (
           array ("Kauden aloitus / liikkeiden kertaus"),
           array ("", "Lämmittely"),

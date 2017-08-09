@@ -83,7 +83,8 @@ foreach ($data as $key => $category) {
             <div class="panel-heading">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion<?php echo $exercise['ref']; ?>" href="#collapse<?php echo $exercise['ref']; ?>">
-                  <i class="fa fa-caret-right"></i>&nbsp; <span class="workoutTitle"><?php echo $exercise['name']; ?></span>
+                  <i class="exercise-caret fa fa-caret-right"></i>&nbsp; <span class="workoutTitle"><?php echo $exercise['name']; ?></span>
+                  <?php if (isset($exercise['users'])) echo "<span class=\"badge\"><i class=\"fa fa-user\"></i> {$exercise['users']}</span>"; ?>
                 </a>
                 <a href="#" data-target="<?php echo $exercise['ref'];?>" class="hidden-xs printMe small pull-right">Tulosta</a>
               </h4>

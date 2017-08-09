@@ -3,7 +3,7 @@
   function toggleChevron(e) {
     $(e.target)
       .prev('.panel-heading')
-      .find('i.fa')
+      .find('i.exercise-caret')
       .toggleClass('fa-caret-right fa-caret-down');
   }
   $("div[id^='accordion']").on('hidden.bs.collapse', toggleChevron);
