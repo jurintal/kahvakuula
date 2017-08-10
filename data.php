@@ -6,6 +6,23 @@ $data = array (
     "name" => "2017",
     "data" => array (
       array (
+        "ref" => "20170810",
+        "name" => "to 10.8.2017 - Angie",
+        //"users" => 12,
+        "data" => array (
+          array ("Omaan tahtiin. Kulmasoutu ja Body Press 20 x molemmat kädet."),
+          array ("40", "Swing"),
+          array ("40", "Kyykky / Askelkyykky"),
+          array ("40", "Vatsa (Sidekicks)"),
+          array ("40", "Kulmasoutu"),
+          array ("40", "Hyvää Huomenta"),
+          array ("40", "Hauis + Nosto + Ranskalainen"),
+          array ("40", "Punnerrus / Mountain Climber pompulla"),
+          array ("40", "Russian Twist (jalat koholla)"),
+          array ("40", "Body Press"),
+        )
+      ),
+      array (
         "ref" => "20170808",
         "name" => "ti 8.8.2017 - Chelsea",
         "users" => 12,
@@ -44,7 +61,7 @@ $data = array (
         "data" => array (
           array ("1 kierros, 1 toisto, 2. kierros 2 toistoa jne. kunnes 15 min täynnä"),
           array ("", "(Burpee)"),
-          array ("", "Hauiskääntö + Ranskalainen"),
+          array ("", "Hauiskääntö + Nosto + Ranskalainen"),
           array ("", "Looper + punnerrus"),
           array ("", "Hyvää huomenta"),
           array ("", "(Punnerrus)"),
@@ -64,7 +81,7 @@ $data = array (
           array ("", "Yhden käden Swing"),
           array ("", "Rinnalleveto + pystytyöntö"),
           array ("", "Snatch"),
-          array ("", "Hauiskääntö + Ranskalainen"),
+          array ("", "Hauiskääntö + Nosto + Ranskalainen"),
           array ("", "Kyykky"),
           array ("", "Goblet-kyykky + varpaillenousu"),
           array ("", "Kahden käden kulmasoutu"),
