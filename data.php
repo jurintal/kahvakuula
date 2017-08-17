@@ -8,7 +8,7 @@ $data = array (
       array (
         "ref" => "20170817",
         "name" => "to 17.8.2017 - Angie 2",
-        //"users" => 8,
+        "users" => 7,
         "data" => array (
           array ("3 kierrosta, isot kuulat käytössä"),
           array ("10", "Dead Lift (16/20/24kg, molemmissa käsissä)"),
@@ -23,7 +23,7 @@ $data = array (
           array ("20", "Lantion nosto"),
           array ("40", "Ilmapolkupyörä"),
           array ("50", "Sukeltajapotkut"),
-          array ("TAUKO 4min"),
+          array ("TAUKO"),
         )
       ),
       array (
