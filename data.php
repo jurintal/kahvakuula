@@ -8,7 +8,7 @@ $data = array (
       array (
         "ref" => "20170821",
         "name" => "ma 21.8.2017 - Fustra",
-        //"users" => 7,
+        "users" => 8,
         "data" => array (
           array ("Jokaisen liikkeen kesto 90s, välissä max. 15s tauot"),
           array ("<b>Lämmittely</b>"),
