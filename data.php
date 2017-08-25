@@ -8,6 +8,7 @@ $data = array (
       array (
         "ref" => "20170824",
         "name" => "to 24.8.2017 - Kahvakuula / Crossfit",
+        "users" => 7,
         "data" => array (
           array ("<b>30 min - niin monta kierrosta kun ehtii</b>:"),
           array ("20", "Swing"),
