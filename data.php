@@ -6,6 +6,32 @@ $data = array (
     "name" => "2017",
     "data" => array (
       array (
+        "ref" => "20170826",
+        "name" => "la 26.8.2017 - Fustra",
+        "users" => 5,
+        "data" => array (
+          array ("Jokaisen liikkeen kesto 90s, välissä max. 15s tauot"),
+          array ("<b>Lämmittely</b>"),
+          array ("", "5 avaavaa liikettä kepin kanssa seisten"),
+          array ("<b>1 sarja (2x)</b>"),
+          array ("", "Syvät vatsat (jalkojen nosto)"),
+          array ("", "Kylkihoover"),
+          array ("", "Selkä vatsamakuulla"),
+          array ("Välijuoksu (kantapäät peffaan)"),
+          array ("<b>2 sarja (2x)</b>"),
+          array ("", "Kyykky"),
+          array ("", "Istumaannousu"),
+          array ("", "Kylkikierto (avaava tai lihasjumppa)"),
+          array ("Välijuoksu (polvien nosto)"),
+          array ("<b>3 sarja (2x)</b>"),
+          array ("", "Vipunosto takaviistoon (1-4kg käsipainot) / punnerrus"),
+          array ("", "Vatsarutistus selinmakuulla"),
+          array ("", "Kropan hallinta"),
+          array ("<b>4 sarja</b>"),
+          array ("", "Vene tai hoover (1.5min)"),
+        )
+      ),
+      array (
         "ref" => "20170824",
         "name" => "to 24.8.2017 - Kahvakuula / Crossfit",
         "users" => 7,
@@ -46,7 +72,7 @@ $data = array (
           array ("", "Vatsarutistus selinmakuulla"),
           array ("", "Kropan hallinta"),
           array ("<b>4 sarja</b>"),
-          array ("", "Vene tai hoover"),
+          array ("", "Vene tai hoover (1.5min)"),
         )
       ),
       array (
