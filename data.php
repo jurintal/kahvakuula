@@ -6,6 +6,26 @@ $data = array (
     "name" => "2017",
     "data" => array (
       array (
+        "ref" => "20170827",
+        "name" => "su 27.8.2017 - Kahvakuula",
+        "users" => 12,
+        "data" => array (
+          array ("<b>Kiertoharjoitteluna, 1 min / liike, 30s lepo liikkeiden välissä, 2 kierrosta</b>:"),
+          array ("", "TRX-punnerrus"),
+          array ("", "½ turkkilainen"),
+          array ("", "Looper"),
+          array ("", "Sivukyykky kuulan kanssa"),
+          array ("", "Swing"),
+          array ("", "Joutsen"),
+          array ("", "Hoover"),
+          array ("", "Vatsarulla"),
+          array ("", "Hyppynaru"),
+          array ("", "Wall ball"),
+          array ("", "Rinnalleveto"),
+          array ("", "Yhden jalan maastaveto")
+        )
+      ),
+      array (
         "ref" => "20170826",
         "name" => "la 26.8.2017 - Fustra",
         "users" => 5,
