@@ -6,6 +6,26 @@ $data = array (
     "name" => "2017",
     "data" => array (
       array (
+        "ref" => "20170831",
+        "name" => "to 31.8.2017 - Dead or Gone",
+        "users" => 8,
+        "data" => array (
+          array ("<b>20 toistoa 1. kierroksella omaan tahtiin, 10 toistoa 2. kierroksella AFAP (as fast as possible)</b>:"),
+          array ("", "Sumo High Pull (ilman kyykkyä)"),
+          array ("", "Punnerrus (vastusnauha)"),
+          array ("", "Press (seisten)"),
+          array ("", "Press (makuulta)"),
+          array ("", "Vatsaliike pallon kanssa"),
+          array ("", "Spider"),
+          array ("", "Lantionnostot kuulan kanssa"),
+          array ("", "Side Kicks"),
+          array ("", "Sivukyykky"),
+          array ("", "Jännehyppy"),
+          array ("", "Gobletkyykky"),
+          array ("", "Askelkyykky")
+        )
+      ),
+      array (
         "ref" => "20170827",
         "name" => "su 27.8.2017 - Kahvakuula",
         "users" => 12,
