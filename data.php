@@ -32,6 +32,28 @@ $data = array (
 //        )
 //      ),
       array (
+        "ref" => "20170905",
+        "name" => "ti 5.9.2017 - Kahvakuula",
+        "users" => 4,
+        "data" => array (
+          array ("Liikkeet pareittain, 2 kierrosta, 1 min / liike"),
+          array ("<b>Lämmittely: </b>"),
+          array ("", "Muhju"),
+          array ("", "Kaverin polvitaipeista kiinni"),
+          array ("<b>1 sarja (2x)</b>"),
+          array ("", "Swing"),
+          array ("", ""),
+          array ("", "Kyykky"),
+          array ("<b>2 sarja (2x)</b>"),
+          array ("", ""),
+          array ("", ""),
+          array ("", "1 jalan nosto (toinen jalka koko ajan ilmassa)"),
+          array ("<b>3 sarja (2x)</b>"),
+          array ("", "Jalkojen nosto selällään maaten (parin kanssa, kiinni parin nilkoista, jalkojen heitto eteen/etuviistoon satunnaisesti)"),
+          array ("", "Käänteinen lankku (vatsa ylöspäin)"),
+        )
+      ),
+      array (
         "ref" => "20170903",
         "name" => "su 3.9.2017 - Kahvakuula",
         "users" => 8,
